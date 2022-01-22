@@ -1,0 +1,22 @@
+.Panda-bg{
+    background-color: #fceae8;
+}
+.bg-watch{
+    background-color: #ffa500;
+}
+.bg-shoe{
+    background-color: #0000ff;
+}
+.bg-backpack{
+    background-color: #da70d6;
+}
+.image{
+    width: 100px;
+}
+.btn-bg{
+    background-color: #ff3d8a;
+    border: none;
+  padding: 9px 25px;
+  color: white;
+  border-radius: 8px;
+}
